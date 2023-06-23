@@ -1,6 +1,6 @@
 # Zen-OS
 
-Welcome to Zen-OS, a simple and intuitive GUI-based shell script operating system created using Zenity. Zen-OS provides a user-friendly interface for performing various tasks and managing your system effortlessly.
+Welcome to Zen-OS, a simple and intuitive GUI-based shell script that works like an operating system created using Zenity. Zen-OS provides a user-friendly interface for performing various tasks and managing your system effortlessly.
 
 ![ZEN-OS Screenshot](Zen-OS.png)
 

@@ -113,7 +113,6 @@ view_files() {
 
     file_list=$(ls -al $current_dir)
 
-    #zenity --text-info --title="Files in $current_dir" --width=600 --height=400 --filename=/dev/null --editable --text "$file_list"
     zenity --info --title="Files in $current_dir" --width=600 --height=300 --text="$file_list"
     show_main_menu
 }
